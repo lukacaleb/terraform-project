@@ -1,4 +1,4 @@
-DEPLOYING 2 EC2 WITH WITH A LOAD BALANCER
+DEPLOYING 2 EC2 WITH WITH A LOAD BALANCER.
 You are required to deploy the following tasks
 Set up 2 EC2 instances on AWS (use the free tier instances).
 Deploy an Nginx web server on these instances (you are free to use ansible)
